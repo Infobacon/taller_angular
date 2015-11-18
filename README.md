@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Plantilla Angular
 =================
 
@@ -24,3 +25,6 @@ Agregar librerías de Front-end
 ---------------------------------
 Usar la sintaxis `$ bower install --save-dev [librería]`. Luego inyectar la dependencia en la aplicación con `$ gulp wiredep`.
 
+=======
+# taller_angular
+>>>>>>> bbff7e8467ce3ef14098db30f1d79e41b123e8ef
