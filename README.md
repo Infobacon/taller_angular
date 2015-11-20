@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Plantilla Angular
 =================
 
